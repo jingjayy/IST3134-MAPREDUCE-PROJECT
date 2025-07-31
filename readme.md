@@ -1,0 +1,2 @@
+Link to Dataset: https://dumps.wikimedia.org/wikidatawiki/20250420/
+Exact data file: https://dumps.wikimedia.org/wikidatawiki/20250420/wikidatawiki-20250420-pages-articles-multistream7.xml-p7552572p7838096.bz2
