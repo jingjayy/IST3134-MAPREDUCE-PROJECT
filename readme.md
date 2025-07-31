@@ -14,20 +14,6 @@ Size: ~4GB uncompressed
 
 Content: Articles and metadata for Wikidata pages
 
-Repository Structure
-IST3134-MAPREDUCE-PROJECT/
-├── JavaMapReduce/
-│   ├── WordCountDriver.java
-│   ├── WordCountMapper.java
-│   └── WordCountReducer.java
-├── PyStream/
-│   ├── mapper.py
-│   └── reducer.py
-├── mapreduce_output_java.txt
-├── mapreduce_output_python.txt
-└── README.md
-JavaMapReduce/ → Java MapReduce using native Hadoop API
-
 PyStream/ → Python MapReduce using Hadoop Streaming
 
 Sample outputs → Top word counts from both implementations
